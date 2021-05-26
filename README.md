@@ -4,7 +4,7 @@ None.
 ### Date
 May 26th 2021 1:46PM
 ### Instructions for how to build & run the app
-Compile and run using flutter on emulator or actual device
+Compile and run using flutter on emulator or actual device. Location and Internet permissions are required for the app to work.
 ### Time spent
 Approx. 6 hours
 ### Assumptionsmade
