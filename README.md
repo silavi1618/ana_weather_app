@@ -1,8 +1,6 @@
-README Template
-(Copy and paste the following template to create your README file)
-*Please do not supply your name or email address in this document. We're doing our best to remain unbiased.*
+
 ## Notes
-Any notes you might want us to be aware of..
+None.
 ### Date
 May 26th 2021 1:46PM
 ### Instructions for how to build & run the app
